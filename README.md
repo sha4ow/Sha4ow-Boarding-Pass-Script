@@ -1,6 +1,6 @@
 Sha4ow's Boarding Pass Script
 
-![Boarding Pass]([image_url](https://cdn.discordapp.com/attachments/1001745761987461190/1116336768426463263/DEMO.png))
+<img src="https://cdn.discordapp.com/attachments/1001745761987461190/1116336768426463263/DEMO.png" alt="Boarding Pass">
 
 Experience the excitement of air travel with Sha4ow's Boarding Pass Script! This immersive FiveM script enhances the player connection experience by presenting them with a stylish and interactive adaptive card that mimics a real-life boarding pass.
 
