@@ -24,9 +24,9 @@ For more detailed installation instructions and configuration options, please re
 Get Started with Immersive Boarding Passes
 Give your players an elevated and immersive connection experience with Sha4ow's Boarding Pass Script. Elevate the realism of your server and create a memorable atmosphere of air travel.
 
-Download Sha4ow's Boarding Pass Script now!
+Get Sha4ow's Boarding Pass Script now - https://sha4ows-custom-development.tebex.io/package/5730233 !
 
 Support and Contributions
 If you encounter any issues or have suggestions for improvement, feel free to open an issue on the GitHub repository. Contributions and pull requests are also welcome!
 
-Join the community of server owners and developers to discuss updates, share ideas, and get support in the official Discord server: Discord Invite Link
+Join the community of server owners and developers to discuss updates, share ideas, and get support in the official Discord server: Discord Invite Link - https://discord.gg/fVa48BHxxW
