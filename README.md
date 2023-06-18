@@ -37,13 +37,13 @@ Easy Integration: The script is designed to seamlessly integrate with the popula
 
 Enhanced Player Engagement: With its elegant design and captivating visuals, Sha4ow's Boarding Pass Script adds an extra layer of immersion and engagement to your server. Provide your players with an unforgettable boarding experience!
 
-Installation 🚀
+🌟 Installation 🚀
 
-Clone or download the Sha4ow's Boarding Pass Script repository.
-Rename the resource folder to Sha4ow_BoardingPass. (Note: Do not rename the resource folder as it may cause issues with the script.)
-Place the Sha4ow_BoardingPass folder in the resources directory of your FiveM server.
-Add start Sha4ow_BoardingPass to your server.cfg file.
-Start your FiveM server.
+1️⃣ Clone or download the Sha4ow's Boarding Pass Script repository.
+2️⃣ Rename the resource folder to Sha4ow_BoardingPass. (Note: Do not rename the resource folder as it may cause issues with the script.)
+3️⃣ Place the Sha4ow_BoardingPass folder in the resources directory of your FiveM server.
+4️⃣ Add `start Sha4ow_BoardingPass` to your server.cfg file.
+5️⃣ Start your FiveM server.
 For more detailed installation instructions and configuration options, please refer to the README.md file included in the repository.
 
 Get Started with Immersive Boarding Passes 🌟
