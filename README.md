@@ -1,6 +1,6 @@
 Sha4ow's Boarding Pass Script
 
-<img src="[https://cdn.discordapp.com/attachments/1001745761987461190/1116728743604518983/image.png]" alt="Boarding Pass">
+<img src="(https://cdn.discordapp.com/attachments/1001745761987461190/1116728743604518983/image.png)" alt="Boarding Pass">
 
 UPDATE - 
 
