@@ -1,6 +1,26 @@
 Sha4ow's Boarding Pass Script
 
-<img src="https://cdn.discordapp.com/attachments/1001745761987461190/1116336768426463263/DEMO.png" alt="Boarding Pass">
+<img src="[https://cdn.discordapp.com/attachments/1001745761987461190/1116728743604518983/image.png]" alt="Boarding Pass">
+
+UPDATE - 
+
+Hey everyone! I've got some fantastic news to share with you all! 🎉 script just got a major update, and it's packed with amazing features and fixes. Prepare to have your Discord experience taken to a whole new level! Here's the lowdown on what I've been working on:
+
+1️⃣ Connection Fix: Goodbye, "Deferring Connection" frustration! 👋 I've sorted out the issue, and now your connections will be smoother than ever. No more waiting around—just hop right into the action!
+
+2️⃣ Random Seat Numbers: Get ready for some randomness in your seating arrangements! 🎭🎟️ Whenever you join a seat, you'll be assigned a unique seat number that even includes letters! It's like a fun surprise every time you take your spot.
+
+3️⃣ Random Arrival Time: Time for some spontaneity! ⏰🎉 I've added random arrival times, so you never know when you'll pop into an event or voice chat. It'll keep things lively and unpredictable!
+
+4️⃣ Bug Fixes: Say goodbye to those pesky glitches! 🐛✨ I've squashed all the known bugs, so you can enjoy a flawless experience. No more irritating hiccups or UI inconsistencies to worry about.
+
+5️⃣ Performance Improvements: Faster, smoother, and better than ever! ⚡💪 I've optimized the script to boost performance, resulting in lightning-fast load times and buttery-smooth interactions. Discord will be a joy to use!
+
+6️⃣ Additional Features: Your wish is my command! 🧞‍♂️✨ I've listened to your feedback and added a bunch of exciting new features. From improved chat filters to enhanced moderation tools, your Discord experience will be top-notch!
+
+Now, you have the power to take your server's boarding experience to a whole new level by offering it in not just one, but SIX different languages! How cool is that? 🌍🗣️✨
+
+From Hindi to English, Spanish, French, German, and Italian, you can now choose your preferred language for the boarding pass script. And here's the best part: it's as simple as a Copy Paste! 🖱️🔤
 
 Experience the excitement of air travel with Sha4ow's Boarding Pass Script! This immersive FiveM script enhances the player connection experience by presenting them with a stylish and interactive adaptive card that mimics a real-life boarding pass.
 
